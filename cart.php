@@ -3,6 +3,8 @@
 <?php
 	if(isset($_GET["action"]) and $_GET["action"] == 'empty'){
 		unset($_SESSION["cart_item"]);
+
+		//comment
 	}	
 	
 	else if(isset($_GET["id"]) and isset($_GET["quantity"])) { 
