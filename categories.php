@@ -26,31 +26,31 @@
 				<div class="row">
 					<div class="col">
 						<div class="header_content d-flex flex-row align-items-center justify-content-start">
-							<div class="logo"><a href="#">Sublime.</a></div>
+							<div class="logo"><a href="#">BOOMERSHOP</a></div>
 							<nav class="main_nav">
 								<ul>
 									<li class="hassubs active">
-										<a href="index.html">Home</a>
+										<a href="index.html">Accueil</a>
 										<ul>
 											<li><a href="categories.html">Categories</a></li>
-											<li><a href="product.html">Product</a></li>
-											<li><a href="cart.html">Cart</a></li>
-											<li><a href="checkout.html">Check out</a></li>
+											<li><a href="product.html">Produit</a></li>
+											<li><a href="cart.html">Panier</a></li>
+											<li><a href="checkout.html">Payer</a></li>
 											<li><a href="contact.html">Contact</a></li>
 										</ul>
 									</li>
 									<li class="hassubs">
 										<a href="categories.html">Categories</a>
 										<ul>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
+											<li><a href="categories.html">Ordinateurs</a></li>
+											<li><a href="categories.html">Smartphone</a></li>
+											<li><a href="categories.html">Clavier</a></li>
+											<li><a href="categories.html">Souris</a></li>
+											<li><a href="categories.html"></a></li>
 										</ul>
 									</li>
-									<li><a href="#">Accessories</a></li>
-									<li><a href="#">Offers</a></li>
+									<li><a href="#">Accessoires</a></li>
+									<li><a href="#">Offres</a></li>
 									<li><a href="contact.html">Contact</a></li>
 								</ul>
 							</nav>
@@ -67,7 +67,7 @@
 													c0,7.5,6,13.5,13.5,13.5s13.5-6,13.5-13.5v-41h45.2l26.9,302.3C412.8,445.2,392.1,462,366.8,462z"/>
 											</g>
 										</svg>
-										<div>Cart <span>(0)</span></div>
+										<div>Panier <span>(0)</span></div>
 									</a>
 								</div>
 								<div class="search">
@@ -133,17 +133,17 @@
 							
 				<div class="page_menu_search menu_mm">
 					<form action="#">
-						<input type="search" required="required" class="page_menu_search_input menu_mm" placeholder="Search for products...">
+						<input type="search" required="required" class="page_menu_search_input menu_mm" placeholder="Chercher des produits...">
 					</form>
 				</div>
 				<ul class="page_menu_nav menu_mm">
 					<li class="page_menu_item has-children menu_mm">
-						<a href="index.html">Home<i class="fa fa-angle-down"></i></a>
+						<a href="index.html">Accueil<i class="fa fa-angle-down"></i></a>
 						<ul class="page_menu_selection menu_mm">
 							<li class="page_menu_item menu_mm"><a href="categories.html">Categories<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="product.html">Product<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="cart.html">Cart<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="checkout.html">Checkout<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="product.html">Produit<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="cart.html">Panier<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="checkout.html">Régler la note<i class="fa fa-angle-down"></i></a></li>
 							<li class="page_menu_item menu_mm"><a href="contact.html">Contact<i class="fa fa-angle-down"></i></a></li>
 						</ul>
 					</li>
@@ -156,8 +156,8 @@
 							<li class="page_menu_item menu_mm"><a href="categories.html">Category<i class="fa fa-angle-down"></i></a></li>
 						</ul>
 					</li>
-					<li class="page_menu_item menu_mm"><a href="index.html">Accessories<i class="fa fa-angle-down"></i></a></li>
-					<li class="page_menu_item menu_mm"><a href="#">Offers<i class="fa fa-angle-down"></i></a></li>
+					<li class="page_menu_item menu_mm"><a href="index.html">Accessoires<i class="fa fa-angle-down"></i></a></li>
+					<li class="page_menu_item menu_mm"><a href="#">Offres<i class="fa fa-angle-down"></i></a></li>
 					<li class="page_menu_item menu_mm"><a href="contact.html">Contact<i class="fa fa-angle-down"></i></a></li>
 				</ul>
 			</div>
@@ -185,8 +185,8 @@
 					<div class="row">
 						<div class="col">
 							<div class="home_content">
-								<div class="home_title">Smart Phones<span>.</span></div>
-								<div class="home_text"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie eros. Sed viverra velit venenatis fermentum luctus.</p></div>
+								<div class="home_title">Boomershop<span>.</span></div>
+								<div class="home_text"><p>Notre entreprise est spécialisé dans le high-tech depuis près de 20 ans, notre expertise est mise à disposition de nos clients en proposant des prix et un SAV défiant toutes concurrences. </p></div>
 							</div>
 						</div>
 					</div>
@@ -204,17 +204,17 @@
 					
 					<!-- Product Sorting -->
 					<div class="sorting_bar d-flex flex-md-row flex-column align-items-md-center justify-content-md-start">
-						<div class="results">Showing <span>12</span> results</div>
+						<div class="results">Montrer les <span>12</span> résultats</div>
 						<div class="sorting_container ml-md-auto">
 							<div class="sorting">
 								<ul class="item_sorting">
 									<li>
-										<span class="sorting_text">Sort by</span>
+										<span class="sorting_text">Trier par</span>
 										<i class="fa fa-chevron-down" aria-hidden="true"></i>
 										<ul>
-											<li class="product_sorting_btn" data-isotope-option='{ "sortBy": "original-order" }'><span>Default</span></li>
-											<li class="product_sorting_btn" data-isotope-option='{ "sortBy": "price" }'><span>Price</span></li>
-											<li class="product_sorting_btn" data-isotope-option='{ "sortBy": "stars" }'><span>Name</span></li>
+											<li class="product_sorting_btn" data-isotope-option='{ "sortBy": "original-order" }'><span>Par défaut</span></li>
+											<li class="product_sorting_btn" data-isotope-option='{ "sortBy": "price" }'><span>Prix</span></li>
+											<li class="product_sorting_btn" data-isotope-option='{ "sortBy": "stars" }'><span>Nom</span></li>
 										</ul>
 									</li>
 								</ul>
@@ -234,7 +234,7 @@
 							<div class="product_extra product_new"><a href="categories.html">New</a></div>
 							<div class="product_content">
 								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$670</div>
+								<div class="product_price">€670</div>
 							</div>
 						</div>
 
@@ -243,8 +243,8 @@
 							<div class="product_image"><img src="images/product_2.jpg" alt=""></div>
 							<div class="product_extra product_sale"><a href="categories.html">Sale</a></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$520</div>
+								<div class="product_title"><a href="product.html">Enceinte</a></div>
+								<div class="product_price">€100</div>
 							</div>
 						</div>
 
@@ -252,8 +252,8 @@
 						<div class="product">
 							<div class="product_image"><img src="images/product_3.jpg" alt=""></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$710</div>
+								<div class="product_title"><a href="product.html">Cable USB</a></div>
+								<div class="product_price">€10</div>
 							</div>
 						</div>
 
@@ -261,8 +261,8 @@
 						<div class="product">
 							<div class="product_image"><img src="images/product_4.jpg" alt=""></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$330</div>
+								<div class="product_title"><a href="product.html">Ordinateur Portable</a></div>
+								<div class="product_price">€330</div>
 							</div>
 						</div>
 
@@ -270,8 +270,8 @@
 						<div class="product">
 							<div class="product_image"><img src="images/product_5.jpg" alt=""></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$170</div>
+								<div class="product_title"><a href="product.html">Casque Audio</a></div>
+								<div class="product_price">€170</div>
 							</div>
 						</div>
 
@@ -280,8 +280,8 @@
 							<div class="product_image"><img src="images/product_6.jpg" alt=""></div>
 							<div class="product_extra product_hot"><a href="categories.html">Hot</a></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$240</div>
+								<div class="product_title"><a href="product.html">Tablette Tactile</a></div>
+								<div class="product_price">€240</div>
 							</div>
 						</div>
 
@@ -289,8 +289,8 @@
 						<div class="product">
 							<div class="product_image"><img src="images/product_7.jpg" alt=""></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$70</div>
+								<div class="product_title"><a href="product.html">Coque Iphone</a></div>
+								<div class="product_price">€40</div>
 							</div>
 						</div>
 
@@ -299,8 +299,8 @@
 							<div class="product_image"><img src="images/product_8.jpg" alt=""></div>
 							<div class="product_extra product_sale"><a href="categories.html">Hot</a></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$490</div>
+								<div class="product_title"><a href="product.html">Clavier</a></div>
+								<div class="product_price">€50</div>
 							</div>
 						</div>
 
@@ -309,8 +309,8 @@
 							<div class="product_image"><img src="images/product_9.jpg" alt=""></div>
 							<div class="product_extra product_sale"><a href="categories.html">Hot</a></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$410</div>
+								<div class="product_title"><a href="product.html">Drone</a></div>
+								<div class="product_price">€410</div>
 							</div>
 						</div>
 
@@ -319,8 +319,8 @@
 							<div class="product_image"><img src="images/product_10.jpg" alt=""></div>
 							<div class="product_extra product_sale"><a href="categories.html">Hot</a></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$365</div>
+								<div class="product_title"><a href="product.html">Casque Bluetooth</a></div>
+								<div class="product_price">€365</div>
 							</div>
 						</div>
 
@@ -329,8 +329,8 @@
 							<div class="product_image"><img src="images/product_11.jpg" alt=""></div>
 							<div class="product_extra product_sale"><a href="categories.html">Hot</a></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$195</div>
+								<div class="product_title"><a href="product.html">PS4</a></div>
+								<div class="product_price">€195</div>
 							</div>
 						</div>
 
@@ -339,8 +339,8 @@
 							<div class="product_image"><img src="images/product_12.jpg" alt=""></div>
 							<div class="product_extra product_sale"><a href="categories.html">Hot</a></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$580</div>
+								<div class="product_title"><a href="product.html">Appareil Photo</a></div>
+								<div class="product_price">€580</div>
 							</div>
 						</div>
 
@@ -368,9 +368,9 @@
 				<div class="col-lg-4 icon_box_col">
 					<div class="icon_box">
 						<div class="icon_box_image"><img src="images/icon_1.svg" alt=""></div>
-						<div class="icon_box_title">Free Shipping Worldwide</div>
+						<div class="icon_box_title">Livraison Partout Dans Le Monde</div>
 						<div class="icon_box_text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie.</p>
+							<p>Sous réserve de frais de ports . Gratuit a partir de 50€.</p>
 						</div>
 					</div>
 				</div>
@@ -379,9 +379,9 @@
 				<div class="col-lg-4 icon_box_col">
 					<div class="icon_box">
 						<div class="icon_box_image"><img src="images/icon_2.svg" alt=""></div>
-						<div class="icon_box_title">Free Returns</div>
+						<div class="icon_box_title">Retours Gratuit</div>
 						<div class="icon_box_text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie.</p>
+							<p>Aucun frais supplémentaire si vous avez un problème avec nos produits.</p>
 						</div>
 					</div>
 				</div>
@@ -390,9 +390,9 @@
 				<div class="col-lg-4 icon_box_col">
 					<div class="icon_box">
 						<div class="icon_box_image"><img src="images/icon_3.svg" alt=""></div>
-						<div class="icon_box_title">24h Fast Support</div>
+						<div class="icon_box_title">Support rapide 24h/24</div>
 						<div class="icon_box_text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie.</p>
+							<p>NService client performant et rapide 24/24 par chat textuel ou téléphone.</p>
 						</div>
 					</div>
 				</div>
@@ -413,12 +413,12 @@
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2">
 					<div class="newsletter_content text-center">
-						<div class="newsletter_title">Subscribe to our newsletter</div>
-						<div class="newsletter_text"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie eros</p></div>
+						<div class="newsletter_title">Abonnez-vous à notre newsletter</div>
+						<div class="newsletter_text"><p>Pour etre tenu informé de toutes les nouveautés et des codes promo a tout moment .</p></div>
 						<div class="newsletter_form_container">
 							<form action="#" id="newsletter_form" class="newsletter_form">
 								<input type="email" class="newsletter_input" required="required">
-								<button class="newsletter_button trans_200"><span>Subscribe</span></button>
+								<button class="newsletter_button trans_200"><span>S'abonner</span></button>
 							</form>
 						</div>
 					</div>
@@ -436,10 +436,9 @@
 			<div class="row">
 				<div class="col">
 					<div class="footer_content d-flex flex-lg-row flex-column align-items-center justify-content-lg-start justify-content-center">
-						<div class="footer_logo"><a href="#">Sublime.</a></div>
-						<div class="copyright ml-auto mr-auto"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
+						<div class="footer_logo"><a href="#">BOOMERSHOP</a></div>
+						<div class="copyright ml-auto mr-auto">
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved to Boomershop Inc.</div>
 						<div class="footer_social ml-lg-auto">
 							<ul>
 								<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>

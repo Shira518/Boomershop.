@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Sublime</title>
+<title>Boomershop.</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Sublime project">
@@ -26,37 +26,37 @@
 				<div class="row">
 					<div class="col">
 						<div class="header_content d-flex flex-row align-items-center justify-content-start">
-							<div class="logo"><a href="#">Sublime.</a></div>
+							<div class="logo"><a href="#">Boomershop.</a></div>
 							<nav class="main_nav">
 								<ul>
 									<li class="hassubs active">
-										<a href="index.html">Home</a>
+										<a href="index.html">Accueil</a>
 										<ul>
-											<li><a href="categories.html">Categories</a></li>
-											<li><a href="product.php">Product</a></li>
-											<li><a href="cart.php">Cart</a></li>
-											<li><a href="checkout.html">Check out</a></li>
-											<li><a href="contact.html">Contact</a></li>
+											<li><a href="categories.html">Catégories</a></li>
+											<li><a href="product.html">Produits</a></li>
+											<li><a href="cart.html">Cartes</a></li>
+											<li><a href="checkout.html">Panier</a></li>
+											<li><a href="contact.html">Nous Contacter</a></li>
 										</ul>
 									</li>
 									<li class="hassubs">
-										<a href="categories.html">Categories</a>
+										<a href="categories.html">Catégories</a>
 										<ul>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
+											<li><a href="categories.html">Catégorie</a></li>
+											<li><a href="categories.html">Catégorie</a></li>
+											<li><a href="categories.html">Catégorie</a></li>
+											<li><a href="categories.html">Catégorie</a></li>
+											<li><a href="categories.html">Catégorie</a></li>
 										</ul>
 									</li>
-									<li><a href="#">Accessories</a></li>
-									<li><a href="#">Offers</a></li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="#">Accessoires</a></li>
+									<li><a href="#">Offres</a></li>
+									<li><a href="contact.html">Nous Contacter</a></li>
 								</ul>
 							</nav>
 							<div class="header_extra ml-auto">
 								<div class="shopping_cart">
-									<a href="cart.php">
+									<a href="cart.html">
 										<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 												 viewBox="0 0 489 489" style="enable-background:new 0 0 489 489;" xml:space="preserve">
 											<g>
@@ -67,7 +67,7 @@
 													c0,7.5,6,13.5,13.5,13.5s13.5-6,13.5-13.5v-41h45.2l26.9,302.3C412.8,445.2,392.1,462,366.8,462z"/>
 											</g>
 										</svg>
-										<div>Cart <span>(0)</span></div>
+										<div>Panier <span>(0)</span></div>
 									</a>
 								</div>
 								<div class="search">
@@ -142,9 +142,9 @@
 						<ul class="page_menu_selection menu_mm">
 							<li class="page_menu_item menu_mm"><a href="categories.html">Categories<i class="fa fa-angle-down"></i></a></li>
 							<li class="page_menu_item menu_mm"><a href="product.html">Product<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="cart.php">Cart<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="cart.html">Cart<i class="fa fa-angle-down"></i></a></li>
 							<li class="page_menu_item menu_mm"><a href="checkout.html">Checkout<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="contact.html">Contact<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="contact.html">Nous Contacter<i class="fa fa-angle-down"></i></a></li>
 						</ul>
 					</li>
 					<li class="page_menu_item has-children menu_mm">
@@ -158,7 +158,7 @@
 					</li>
 					<li class="page_menu_item menu_mm"><a href="index.html">Accessories<i class="fa fa-angle-down"></i></a></li>
 					<li class="page_menu_item menu_mm"><a href="#">Offers<i class="fa fa-angle-down"></i></a></li>
-					<li class="page_menu_item menu_mm"><a href="contact.html">Contact<i class="fa fa-angle-down"></i></a></li>
+					<li class="page_menu_item menu_mm"><a href="contact.html">Nous Contact<i class="fa fa-angle-down"></i></a></li>
 				</ul>
 			</div>
 		</div>
@@ -185,15 +185,14 @@
 				
 				<!-- Slider Item -->
 				<div class="owl-item home_slider_item">
-					<div class="home_slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(http://www.leparisien.fr/resizer/wLNqQIia7CJHX-1kUW2FE2U5B-c=/932x582/arc-anglerfish-eu-central-1-prod-leparisien.s3.amazonaws.com/public/T2GA7C63UXNQJ2VU2KJBAWCZ6I.jpg)"></div>
 					<div class="home_slider_content_container">
 						<div class="container">
 							<div class="row">
 								<div class="col">
 									<div class="home_slider_content"  data-animation-in="fadeIn" data-animation-out="animate-out fadeOut">
-										<div class="home_slider_title">A new Online Shop experience.</div>
-										<div class="home_slider_subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie eros. Sed viverra velit venenatis fermentum luctus.</div>
-										<div class="button button_light home_button"><a href="#">Shop Now</a></div>
+										<div class="home_slider_title"></div>
+										<div class="home_slider_subtitle"></div>
 									</div>
 								</div>
 							</div>
@@ -203,15 +202,14 @@
 
 				<!-- Slider Item -->
 				<div class="owl-item home_slider_item">
-					<div class="home_slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(https://www.cdiscount.com/pdt2/0/4/7/1/700x700/bun9s6b91911047/rw/unite-centrale-gamer-msi-nightblade-mi3-8rb-047x.jpg)"></div>
 					<div class="home_slider_content_container">
 						<div class="container">
 							<div class="row">
 								<div class="col">
 									<div class="home_slider_content"  data-animation-in="fadeIn" data-animation-out="animate-out fadeOut">
-										<div class="home_slider_title">A new Online Shop experience.</div>
-										<div class="home_slider_subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie eros. Sed viverra velit venenatis fermentum luctus.</div>
-										<div class="button button_light home_button"><a href="#">Shop Now</a></div>
+										<div class="home_slider_title"></div>
+										<div class="home_slider_subtitle"></div>
 									</div>
 								</div>
 							</div>
@@ -221,15 +219,14 @@
 
 				<!-- Slider Item -->
 				<div class="owl-item home_slider_item">
-					<div class="home_slider_background" style="background-image:url(images/home_slider_1.jpg)"></div>
+					<div class="home_slider_background" style="background-image:url(https://media.ldlc.com/r1600/ld/products/00/05/47/03/LD0005470311_2.jpg)"></div>
 					<div class="home_slider_content_container">
 						<div class="container">
 							<div class="row">
 								<div class="col">
 									<div class="home_slider_content"  data-animation-in="fadeIn" data-animation-out="animate-out fadeOut">
-										<div class="home_slider_title">A new Online Shop experience.</div>
-										<div class="home_slider_subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie eros. Sed viverra velit venenatis fermentum luctus.</div>
-										<div class="button button_light home_button"><a href="#">Shop Now</a></div>
+										<div class="home_slider_title"></div>
+										<div class="home_slider_subtitle"></div>
 									</div>
 								</div>
 							</div>
@@ -247,9 +244,9 @@
 						<div class="col">
 							<div class="home_slider_dots">
 								<ul id="home_slider_custom_dots" class="home_slider_custom_dots">
-									<li class="home_slider_custom_dot active">01.</li>
-									<li class="home_slider_custom_dot">02.</li>
-									<li class="home_slider_custom_dot">03.</li>
+									<li class="home_slider_custom_dot active"></li>
+									<li class="home_slider_custom_dot"></li>
+									<li class="home_slider_custom_dot"></li>
 								</ul>
 							</div>
 						</div>
@@ -265,7 +262,7 @@
 	<div class="avds">
 		<div class="avds_container d-flex flex-lg-row flex-column align-items-start justify-content-between">
 			<div class="avds_small">
-				<div class="avds_background" style="background-image:url(images/avds_small.jpg)"></div>
+				<div class="avds_background" style="background-image:url(https://pic.clubic.com/v1/images/1713388/raw)"></div>
 				<div class="avds_small_inner">
 					<div class="avds_discount_container">
 						<img src="images/discount.png" alt="">
@@ -277,18 +274,18 @@
 						</div>
 					</div>
 					<div class="avds_small_content">
-						<div class="avds_title">Smart Phones</div>
-						<div class="avds_link"><a href="categories.html">See More</a></div>
+						<div class="avds_title"></div>
+						<div class="avds_link"><a href="categories.html"></a></div>
 					</div>
 				</div>
 			</div>
 			<div class="avds_large">
-				<div class="avds_background" style="background-image:url(images/avds_large.jpg)"></div>
+				<div class="avds_background" style="background-image:url(https://www.imagenumerique.fr/wp-content/uploads/2019/01/Les-10-meilleurs-appareils-photo-pour-les-professionnels-en-2019-810x450.jpg)"></div>
 				<div class="avds_large_container">
 					<div class="avds_large_content">
-						<div class="avds_title">Professional Cameras</div>
-						<div class="avds_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie eros. Sed viver ra velit venenatis fermentum luctus.</div>
-						<div class="avds_link avds_link_large"><a href="categories.html">See More</a></div>
+						<div class="avds_title">Appareils photos professionnels</div>
+						<div class="avds_text"></div>
+						<div class="avds_link avds_link_large"><a href="categories.html">Voir Plus</a></div>
 					</div>
 				</div>
 			</div>
@@ -310,7 +307,7 @@
 							<div class="product_extra product_new"><a href="categories.html">New</a></div>
 							<div class="product_content">
 								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$670</div>
+								<div class="product_price">€999</div>
 							</div>
 						</div>
 
@@ -319,8 +316,8 @@
 							<div class="product_image"><img src="images/product_2.jpg" alt=""></div>
 							<div class="product_extra product_sale"><a href="categories.html">Sale</a></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$670</div>
+								<div class="product_title"><a href="product.html">Enceinte Bose</a></div>
+								<div class="product_price">€200</div>
 							</div>
 						</div>
 
@@ -328,8 +325,8 @@
 						<div class="product">
 							<div class="product_image"><img src="images/product_3.jpg" alt=""></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$670</div>
+								<div class="product_title"><a href="product.html">Câble USB</a></div>
+								<div class="product_price">€3</div>
 							</div>
 						</div>
 
@@ -337,8 +334,8 @@
 						<div class="product">
 							<div class="product_image"><img src="images/product_4.jpg" alt=""></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$670</div>
+								<div class="product_title"><a href="product.html">Ordinateur Portable</a></div>
+								<div class="product_price">€999</div>
 							</div>
 						</div>
 
@@ -346,8 +343,8 @@
 						<div class="product">
 							<div class="product_image"><img src="images/product_5.jpg" alt=""></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$670</div>
+								<div class="product_title"><a href="product.html">Casques Beat</a></div>
+								<div class="product_price">€135</div>
 							</div>
 						</div>
 
@@ -356,8 +353,8 @@
 							<div class="product_image"><img src="images/product_6.jpg" alt=""></div>
 							<div class="product_extra product_hot"><a href="categories.html">Hot</a></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$670</div>
+								<div class="product_title"><a href="product.html">Tablette tactile</a></div>
+								<div class="product_price">€600</div>
 							</div>
 						</div>
 
@@ -365,8 +362,8 @@
 						<div class="product">
 							<div class="product_image"><img src="images/product_7.jpg" alt=""></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$670</div>
+								<div class="product_title"><a href="product.html">Coque de téléphone</a></div>
+								<div class="product_price">€15</div>
 							</div>
 						</div>
 
@@ -375,8 +372,8 @@
 							<div class="product_image"><img src="images/product_8.jpg" alt=""></div>
 							<div class="product_extra product_sale"><a href="categories.html">Hot</a></div>
 							<div class="product_content">
-								<div class="product_title"><a href="product.html">Smart Phone</a></div>
-								<div class="product_price">$670</div>
+								<div class="product_title"><a href="product.html">Clavier</a></div>
+								<div class="product_price">€50</div>
 							</div>
 						</div>
 
@@ -396,9 +393,10 @@
 					<div class="avds_xl_container clearfix">
 						<div class="avds_xl_background" style="background-image:url(images/avds_xl.jpg)"></div>
 						<div class="avds_xl_content">
-							<div class="avds_title">Amazing Devices</div>
-							<div class="avds_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus.</div>
-							<div class="avds_link avds_xl_link"><a href="categories.html">See More</a></div>
+							<div class="avds_title">Casque Beats</div>
+							<div class="avds_text">
+Le casque de Beats produit un son remarquablement équilibré. Et son cadre épuré et solide est renforcé d’un acier inoxydable léger.</div>
+							<div class="avds_link avds_xl_link"><a href="categories.html">Voir Plus</a></div>
 						</div>
 					</div>
 				</div>
@@ -416,9 +414,9 @@
 				<div class="col-lg-4 icon_box_col">
 					<div class="icon_box">
 						<div class="icon_box_image"><img src="images/icon_1.svg" alt=""></div>
-						<div class="icon_box_title">Free Shipping Worldwide</div>
+						<div class="icon_box_title">Livraison Partout Dans Le Monde</div>
 						<div class="icon_box_text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie.</p>
+							<p>Sous réserve de frais de ports . Gratuit a partir de 50€.</p>
 						</div>
 					</div>
 				</div>
@@ -427,9 +425,9 @@
 				<div class="col-lg-4 icon_box_col">
 					<div class="icon_box">
 						<div class="icon_box_image"><img src="images/icon_2.svg" alt=""></div>
-						<div class="icon_box_title">Free Returns</div>
+						<div class="icon_box_title">Retours Gratuits</div>
 						<div class="icon_box_text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie.</p>
+							<p>Aucun frais supplémentaire si vous avez un problème avec nos produits.</p>
 						</div>
 					</div>
 				</div>
@@ -438,9 +436,9 @@
 				<div class="col-lg-4 icon_box_col">
 					<div class="icon_box">
 						<div class="icon_box_image"><img src="images/icon_3.svg" alt=""></div>
-						<div class="icon_box_title">24h Fast Support</div>
+						<div class="icon_box_title">Support rapide 24h/24</div>
 						<div class="icon_box_text">
-							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie.</p>
+							<p>Service client performant et rapide 24/24 par chat textuel ou téléphone.</p>
 						</div>
 					</div>
 				</div>
@@ -461,12 +459,12 @@
 			<div class="row">
 				<div class="col-lg-8 offset-lg-2">
 					<div class="newsletter_content text-center">
-						<div class="newsletter_title">Subscribe to our newsletter</div>
-						<div class="newsletter_text"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a ultricies metus. Sed nec molestie eros</p></div>
+						<div class="newsletter_title">Abonnez vous a notre newsletter</div>
+						<div class="newsletter_text"><p>Pour etre tenu informé de toutes les nouveautés et des codes promo a tout moment .</p></div>
 						<div class="newsletter_form_container">
 							<form action="#" id="newsletter_form" class="newsletter_form">
 								<input type="email" class="newsletter_input" required="required">
-								<button class="newsletter_button trans_200"><span>Subscribe</span></button>
+								<button class="newsletter_button trans_200"><span>S'abonner</span></button>
 							</form>
 						</div>
 					</div>
@@ -486,14 +484,14 @@
 					<div class="footer_content d-flex flex-lg-row flex-column align-items-center justify-content-lg-start justify-content-center">
 						<div class="footer_logo"><a href="#">Sublime.</a></div>
 						<div class="copyright ml-auto mr-auto"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tout Droits Réservés A Boomershop. <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
 						<div class="footer_social ml-lg-auto">
 							<ul>
-								<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
+								
 								<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 								<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
+								
 							</ul>
 						</div>
 					</div>

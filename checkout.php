@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<title>Checkout</title>
+<title>Paiement</title>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Sublime project">
@@ -23,32 +23,32 @@
 				<div class="row">
 					<div class="col">
 						<div class="header_content d-flex flex-row align-items-center justify-content-start">
-							<div class="logo"><a href="#">Sublime.</a></div>
+							<div class="logo"><a href="#">BoomerShop.</a></div>
 							<nav class="main_nav">
 								<ul>
 									<li class="hassubs active">
-										<a href="index.html">Home</a>
+										<a href="index.html">Menu</a>
 										<ul>
-											<li><a href="categories.html">Categories</a></li>
-											<li><a href="product.html">Product</a></li>
-											<li><a href="cart.html">Cart</a></li>
-											<li><a href="checkout.html">Check out</a></li>
-											<li><a href="contact.html">Contact</a></li>
+											<li><a href="categories.html">Catégories</a></li>
+											<li><a href="product.html">Produits</a></li>
+											<li><a href="cart.html">Panier</a></li>
+											<li><a href="checkout.html">Paiement</a></li>
+											<li><a href="contact.html">Nous Contacter</a></li>
 										</ul>
 									</li>
 									<li class="hassubs">
-										<a href="categories.html">Categories</a>
+										<a href="categories.html">Catégories</a>
 										<ul>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
-											<li><a href="categories.html">Category</a></li>
+											<li><a href="categories.html">Catégories</a></li>
+											<li><a href="categories.html">Catégories</a></li>
+											<li><a href="categories.html">Catégories</a></li>
+											<li><a href="categories.html">Catégories</a></li>
+											<li><a href="categories.html">Catégories</a></li>
 										</ul>
 									</li>
-									<li><a href="#">Accessories</a></li>
-									<li><a href="#">Offers</a></li>
-									<li><a href="contact.html">Contact</a></li>
+									<li><a href="#">Accessoires</a></li>
+									<li><a href="#">Offre Spéciale</a></li>
+									<li><a href="contact.html">Nous Contacter</a></li>
 								</ul>
 							</nav>
 							<div class="header_extra ml-auto">
@@ -64,7 +64,7 @@
 													c0,7.5,6,13.5,13.5,13.5s13.5-6,13.5-13.5v-41h45.2l26.9,302.3C412.8,445.2,392.1,462,366.8,462z"/>
 											</g>
 										</svg>
-										<div>Cart <span>(0)</span></div>
+										<div>Panier <span>(0)</span></div>
 									</a>
 								</div>
 								<div class="search">
@@ -135,22 +135,22 @@
 				</div>
 				<ul class="page_menu_nav menu_mm">
 					<li class="page_menu_item has-children menu_mm">
-						<a href="index.html">Home<i class="fa fa-angle-down"></i></a>
+						<a href="index.html">Menu<i class="fa fa-angle-down"></i></a>
 						<ul class="page_menu_selection menu_mm">
-							<li class="page_menu_item menu_mm"><a href="categories.html">Categories<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="product.html">Product<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="cart.html">Cart<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="checkout.html">Checkout<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="contact.html">Contact<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="categories.html">Catégories<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="product.html">Produits<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="cart.html">Panier<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="checkout.html">Paiement<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="contact.html">Nous Contacter<i class="fa fa-angle-down"></i></a></li>
 						</ul>
 					</li>
 					<li class="page_menu_item has-children menu_mm">
-						<a href="categories.html">Categories<i class="fa fa-angle-down"></i></a>
+						<a href="categories.html">Catégories<i class="fa fa-angle-down"></i></a>
 						<ul class="page_menu_selection menu_mm">
-							<li class="page_menu_item menu_mm"><a href="categories.html">Category<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="categories.html">Category<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="categories.html">Category<i class="fa fa-angle-down"></i></a></li>
-							<li class="page_menu_item menu_mm"><a href="categories.html">Category<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="categories.html">Catégories<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="categories.html">Catégories<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="categories.html">Catégories<i class="fa fa-angle-down"></i></a></li>
+							<li class="page_menu_item menu_mm"><a href="categories.html">Catégories<i class="fa fa-angle-down"></i></a></li>
 						</ul>
 					</li>
 					<li class="page_menu_item menu_mm"><a href="index.html">Accessories<i class="fa fa-angle-down"></i></a></li>
@@ -184,9 +184,9 @@
 							<div class="home_content">
 								<div class="breadcrumbs">
 									<ul>
-										<li><a href="index.html">Home</a></li>
-										<li><a href="cart.html">Shopping Cart</a></li>
-										<li>Checkout</li>
+										<li><a href="index.html">Menu</a></li>
+										<li><a href="cart.html">Retour au Panier </a></li>
+										<li>Paiement</li>
 									</ul>
 								</div>
 							</div>
@@ -206,58 +206,58 @@
 				<!-- Billing Info -->
 				<div class="col-lg-6">
 					<div class="billing checkout_section">
-						<div class="section_title">Billing Address</div>
-						<div class="section_subtitle">Enter your address info</div>
+						<div class="section_title">Adresse De Facturation</div>
+						<div class="section_subtitle">Entrez Votre Adresse</div>
 						<div class="checkout_form_container">
 							<form action="#" id="checkout_form" class="checkout_form">
 								<div class="row">
 									<div class="col-xl-6">
 										<!-- Name -->
-										<label for="checkout_name">First Name*</label>
+										<label for="checkout_name">Nom*</label>
 										<input type="text" id="checkout_name" class="checkout_input" required="required">
 									</div>
 									<div class="col-xl-6 last_name_col">
 										<!-- Last Name -->
-										<label for="checkout_last_name">Last Name*</label>
+										<label for="checkout_last_name">Prenom*</label>
 										<input type="text" id="checkout_last_name" class="checkout_input" required="required">
 									</div>
 								</div>
 								<div>
 									<!-- Company -->
-									<label for="checkout_company">Company</label>
+									<label for="checkout_company">Entreprise</label>
 									<input type="text" id="checkout_company" class="checkout_input">
 								</div>
 								<div>
 									<!-- Country -->
-									<label for="checkout_country">Country*</label>
+									<label for="checkout_country">Pays*</label>
 									<select name="checkout_country" id="checkout_country" class="dropdown_item_select checkout_input" require="required">
 										<option></option>
-										<option>Lithuania</option>
-										<option>Sweden</option>
-										<option>UK</option>
-										<option>Italy</option>
+										<option>France</option>
+										<option>Etats-Unis</option>
+										<option>Espagne</option>
+										<option>Italie</option>
 									</select>
 								</div>
 								<div>
 									<!-- Address -->
-									<label for="checkout_address">Address*</label>
+									<label for="checkout_address">Addresse*</label>
 									<input type="text" id="checkout_address" class="checkout_input" required="required">
 									<input type="text" id="checkout_address_2" class="checkout_input checkout_address_2" required="required">
 								</div>
 								<div>
 									<!-- Zipcode -->
-									<label for="checkout_zipcode">Zipcode*</label>
+									<label for="checkout_zipcode">Code Postal*</label>
 									<input type="text" id="checkout_zipcode" class="checkout_input" required="required">
 								</div>
 								<div>
 									<!-- City / Town -->
-									<label for="checkout_city">City/Town*</label>
+									<label for="checkout_city">Ville*</label>
 									<select name="checkout_city" id="checkout_city" class="dropdown_item_select checkout_input" require="required">
 										<option></option>
-										<option>City</option>
-										<option>City</option>
-										<option>City</option>
-										<option>City</option>
+										<option>Ville</option>
+										<option>Ville</option>
+										<option>Ville</option>
+										<option>Ville</option>
 									</select>
 								</div>
 								<div>
@@ -265,37 +265,37 @@
 									<label for="checkout_province">Province*</label>
 									<select name="checkout_province" id="checkout_province" class="dropdown_item_select checkout_input" require="required">
 										<option></option>
-										<option>Province</option>
-										<option>Province</option>
-										<option>Province</option>
-										<option>Province</option>
+										<option>Région</option>
+										<option>Région</option>
+										<option>Région</option>
+										<option>Région</option>
 									</select>
 								</div>
 								<div>
 									<!-- Phone no -->
-									<label for="checkout_phone">Phone no*</label>
+									<label for="checkout_phone">Numéro De Téléphone*</label>
 									<input type="phone" id="checkout_phone" class="checkout_input" required="required">
 								</div>
 								<div>
 									<!-- Email -->
-									<label for="checkout_email">Email Address*</label>
+									<label for="checkout_email">Adresse Mail*</label>
 									<input type="phone" id="checkout_email" class="checkout_input" required="required">
 								</div>
 								<div class="checkout_extra">
 									<div>
 										<input type="checkbox" id="checkbox_terms" name="regular_checkbox" class="regular_checkbox" checked="checked">
 										<label for="checkbox_terms"><img src="images/check.png" alt=""></label>
-										<span class="checkbox_title">Terms and conditions</span>
+										<span class="checkbox_title">Termes Et Conditions</span>
 									</div>
 									<div>
 										<input type="checkbox" id="checkbox_account" name="regular_checkbox" class="regular_checkbox">
 										<label for="checkbox_account"><img src="images/check.png" alt=""></label>
-										<span class="checkbox_title">Create an account</span>
+										<span class="checkbox_title">Creer Un Compte</span>
 									</div>
 									<div>
 										<input type="checkbox" id="checkbox_newsletter" name="regular_checkbox" class="regular_checkbox">
 										<label for="checkbox_newsletter"><img src="images/check.png" alt=""></label>
-										<span class="checkbox_title">Subscribe to our newsletter</span>
+										<span class="checkbox_title">Adhérer A Notre Newsletter</span>
 									</div>
 								</div>
 							</form>
@@ -307,27 +307,27 @@
 
 				<div class="col-lg-6">
 					<div class="order checkout_section">
-						<div class="section_title">Your order</div>
-						<div class="section_subtitle">Order details</div>
+						<div class="section_title">Votre Commande</div>
+						<div class="section_subtitle">Détaille De Votre Commande</div>
 
 						<!-- Order details -->
 						<div class="order_list_container">
 							<div class="order_list_bar d-flex flex-row align-items-center justify-content-start">
-								<div class="order_list_title">Product</div>
+								<div class="order_list_title">Produits</div>
 								<div class="order_list_value ml-auto">Total</div>
 							</div>
 							<ul class="order_list">
 								<li class="d-flex flex-row align-items-center justify-content-start">
-									<div class="order_list_title">Cocktail Yellow dress</div>
-									<div class="order_list_value ml-auto">$59.90</div>
+									<div class="order_list_title">ARTICLE MINABLE</div>
+									<div class="order_list_value ml-auto">$59000.90</div>
 								</li>
 								<li class="d-flex flex-row align-items-center justify-content-start">
-									<div class="order_list_title">Subtotal</div>
-									<div class="order_list_value ml-auto">$59.90</div>
+									<div class="order_list_title">Sous-Total</div>
+									<div class="order_list_value ml-auto">$594.90</div>
 								</li>
 								<li class="d-flex flex-row align-items-center justify-content-start">
-									<div class="order_list_title">Shipping</div>
-									<div class="order_list_value ml-auto">Free</div>
+									<div class="order_list_title">Livraison</div>
+									<div class="order_list_value ml-auto">Gratuit</div>
 								</li>
 								<li class="d-flex flex-row align-items-center justify-content-start">
 									<div class="order_list_title">Total</div>
@@ -343,24 +343,15 @@
 									<input type="radio" name="radio">
 									<span class="checkmark"></span>
 								</label>
-								<label class="payment_option clearfix">Cach on delivery
+								<label class="payment_option clearfix">Carte De Crédit
 									<input type="radio" name="radio">
 									<span class="checkmark"></span>
-								</label>
-								<label class="payment_option clearfix">Credit card
-									<input type="radio" name="radio">
-									<span class="checkmark"></span>
-								</label>
-								<label class="payment_option clearfix">Direct bank transfer
-									<input type="radio" checked="checked" name="radio">
-									<span class="checkmark"></span>
-								</label>
 							</div>
 						</div>
 
 						<!-- Order Text -->
-						<div class="order_text">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pharetra temp or so dales. Phasellus sagittis auctor gravida. Integ er bibendum sodales arcu id te mpus. Ut consectetur lacus.</div>
-						<div class="button order_button"><a href="#">Place Order</a></div>
+						<div class="order_text">Merci De Garantir L'Authenticité Des Informations Saisies</div>
+						<div class="button order_button"><a href="#">Passer Une Commande</a></div>
 					</div>
 				</div>
 			</div>
@@ -376,16 +367,14 @@
 			<div class="row">
 				<div class="col">
 					<div class="footer_content d-flex flex-lg-row flex-column align-items-center justify-content-lg-start justify-content-center">
-						<div class="footer_logo"><a href="#">Sublime.</a></div>
+						<div class="footer_logo"><a href="#">Boomershop.</a></div>
 						<div class="copyright ml-auto mr-auto"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Tout Droits Réservés A L'entreprise <a href="https://colorlib.com" target="_blank">BoomerShop.</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></div>
 						<div class="footer_social ml-lg-auto">
 							<ul>
-								<li><a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a></li>
 								<li><a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a></li>
 								<li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
-								<li><a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 							</ul>
 						</div>
 					</div>
